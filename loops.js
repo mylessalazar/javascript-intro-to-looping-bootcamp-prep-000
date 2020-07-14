@@ -26,7 +26,11 @@ while (countdown > 0) {
 }
   return "done"
 }
+<<<<<<< HEAD
 function doWhileLoop(num){
+=======
+function doWhileLoop()
+>>>>>>> cc8f9c431794d380188b284d291bdefbd2fa326a
 let i = 0;
 function incrementVariable(){
   i = i + 1 
